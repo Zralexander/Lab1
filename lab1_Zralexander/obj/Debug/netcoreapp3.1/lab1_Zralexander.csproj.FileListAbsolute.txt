@@ -1,0 +1,13 @@
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\bin\Debug\netcoreapp3.1\lab1_Zralexander.exe
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\bin\Debug\netcoreapp3.1\lab1_Zralexander.deps.json
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\bin\Debug\netcoreapp3.1\lab1_Zralexander.runtimeconfig.json
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\bin\Debug\netcoreapp3.1\lab1_Zralexander.runtimeconfig.dev.json
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\bin\Debug\netcoreapp3.1\lab1_Zralexander.dll
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\bin\Debug\netcoreapp3.1\lab1_Zralexander.pdb
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\obj\Debug\netcoreapp3.1\lab1_Zralexander.csprojAssemblyReference.cache
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\obj\Debug\netcoreapp3.1\lab1_Zralexander.AssemblyInfoInputs.cache
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\obj\Debug\netcoreapp3.1\lab1_Zralexander.AssemblyInfo.cs
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\obj\Debug\netcoreapp3.1\lab1_Zralexander.csproj.CoreCompileInputs.cache
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\obj\Debug\netcoreapp3.1\lab1_Zralexander.dll
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\obj\Debug\netcoreapp3.1\lab1_Zralexander.pdb
+C:\Users\Zacha\source\repos\321\lab1_Zralexander\obj\Debug\netcoreapp3.1\lab1_Zralexander.genruntimeconfig.cache
